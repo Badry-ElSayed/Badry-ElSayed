@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Badry
+- 👀 I’m interested in Mobile Applications
+- 🌱 I’m currently learning it
